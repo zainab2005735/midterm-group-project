@@ -5,7 +5,7 @@
 
 ## Group members
 - Matiullah Zaman
-- Member 2 Zainap Noori
+-  Zainab Noori
 
 ## Short description
 A responsive 5-page restaurant website with a menu table, gallery, and table reservation form. Theme: wine red, saffron gold and cream.
@@ -28,7 +28,7 @@ HTML5, CSS3, Bootstrap 5.3 (CDN), Google Fonts, Git and GitHub Pages
 
 ## Individual contribution
 - Matiullah: CSS styling and responsiveness 
-- Member 2: HTML pages and content 
+- Zainab: HTML pages and content 
 
 
 ## Published website
